@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\cecoigraphvisionpackage.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\cecoigraphvisionpackage.vsct||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\cecoigraphwindowcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\cecoigraphwindowcontrol.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\cecoigraphwindowcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\cecoigraphwindowcontrol.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\cecoigraphwindowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\cecoigraphwindowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\bussines\\solutionscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\bussines\\solutionscanner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\bussines\\showdependecygraphcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\bussines\\showdependecygraphcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\bussines\\graphvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\bussines\\graphvisualizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\cecoigraphwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\cecoigraphwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|c:\\users\\pcecoi\\source\\repos\\cecoigraphvision\\cecoigraphvision\\cecoigraphvisionpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{670D9925-CFA5-486E-8B6F-D7B58AC11EB7}|CecoiGraphVision\\CecoiGraphVision.csproj|solutionrelative:cecoigraphvision\\cecoigraphvisionpackage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.extension.vsixmanifest [Design]",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\source.extension.vsixmanifest",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\source.extension.vsixmanifest",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\source.extension.vsixmanifest [Design]",
+              "RelativeToolTip": "CecoiGraphVision\\source.extension.vsixmanifest [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-20T14:07:31.437Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CecoiGraphWindowControl.xaml",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphWindowControl.xaml",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\CecoiGraphWindowControl.xaml",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphWindowControl.xaml",
+              "RelativeToolTip": "CecoiGraphVision\\CecoiGraphWindowControl.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T13:07:56.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SolutionScanner.cs",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\Bussines\\SolutionScanner.cs",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\Bussines\\SolutionScanner.cs",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\Bussines\\SolutionScanner.cs",
+              "RelativeToolTip": "CecoiGraphVision\\Bussines\\SolutionScanner.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:05:27.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CecoiGraphWindowControl.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphWindowControl.xaml.cs",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\CecoiGraphWindowControl.xaml.cs",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphWindowControl.xaml.cs",
+              "RelativeToolTip": "CecoiGraphVision\\CecoiGraphWindowControl.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:12:11.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CecoiGraphWindowCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphWindowCommand.cs",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\CecoiGraphWindowCommand.cs",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphWindowCommand.cs",
+              "RelativeToolTip": "CecoiGraphVision\\CecoiGraphWindowCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:59:46.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CecoiGraphVisionPackage.vsct",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphVisionPackage.vsct",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\CecoiGraphVisionPackage.vsct",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphVisionPackage.vsct",
+              "RelativeToolTip": "CecoiGraphVision\\CecoiGraphVisionPackage.vsct",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2024-06-20T13:38:58.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShowDependecyGraphCommand.cs",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\Bussines\\ShowDependecyGraphCommand.cs",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\Bussines\\ShowDependecyGraphCommand.cs",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\Bussines\\ShowDependecyGraphCommand.cs",
+              "RelativeToolTip": "CecoiGraphVision\\Bussines\\ShowDependecyGraphCommand.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwGYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:20:09.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GraphVisualizer.cs",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\Bussines\\GraphVisualizer.cs",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\Bussines\\GraphVisualizer.cs",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\Bussines\\GraphVisualizer.cs",
+              "RelativeToolTip": "CecoiGraphVision\\Bussines\\GraphVisualizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:07:31.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CecoiGraphWindow.cs",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphWindow.cs",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\CecoiGraphWindow.cs",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphWindow.cs",
+              "RelativeToolTip": "CecoiGraphVision\\CecoiGraphWindow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:02:54.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CecoiGraphVisionPackage.cs",
+              "DocumentMoniker": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphVisionPackage.cs",
+              "RelativeDocumentMoniker": "CecoiGraphVision\\CecoiGraphVisionPackage.cs",
+              "ToolTip": "C:\\Users\\pcecoi\\source\\repos\\CecoiGraphVision\\CecoiGraphVision\\CecoiGraphVisionPackage.cs",
+              "RelativeToolTip": "CecoiGraphVision\\CecoiGraphVisionPackage.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAUwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:58:09.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

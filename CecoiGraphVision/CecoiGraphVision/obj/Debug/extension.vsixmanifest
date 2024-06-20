@@ -1,0 +1,25 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="CecoiGraphVision.e3fee3d8-61fe-4223-8157-dfcd87de72cf" Version="0.5.1" Language="en-US" Publisher="Cecoi Pavel" />
+    <DisplayName>Cecoi Graph Vision</DisplayName>
+    <Description xml:space="preserve">NOTE: Please wait for the 1.0 Version to be realesed before you download this package!
+
+Product still in development phase..</Description>
+    <Icon>CecoiGraphVision.png</Icon>
+    <PreviewImage>CecoiGraphVision.png</PreviewImage>
+  </Metadata>
+  <Installation>
+    <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.0, 18.0)">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.Framework.NDP" DisplayName="Microsoft .NET Framework" Version="[4.5,)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="CecoiGraphVision.pkgdef" />
+  </Assets>
+</PackageManifest>
